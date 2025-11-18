@@ -462,6 +462,13 @@ body:hover::-webkit-scrollbar-thumb { background-color: var(--surface-variant); 
 
   .player .container { max-width: 540px; }
 
+  .btn-icon {
+    width: 70px;
+    height: 70px;
+  }
+
+  .btn-icon .material-symbols-rounded { font-size: 3.4rem; }
+
 }
 
 
